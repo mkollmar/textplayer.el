@@ -1,0 +1,127 @@
+; open with textplayer
+
+((0 "textplayer-demo" "Markus Kollmar" "dec2020" "-" 0.1) (
+"#"
+"r"
+""
+""
+""
+"") (
+     
+"##"
+"rr"
+"#"
+"r"
+"#"
+"r") (
+      
+"###"
+"rrr"
+" #"
+" r"
+" #"
+" r") (
+       
+" ###         #"
+" rrr         b"
+"  #          #"
+"  r          b"
+"  #          #"
+"  r          b") (
+		   
+"  ###       ##"
+"  rrr       bb"
+"   #        #"
+"   r        b"
+"   #        #"
+"   r        b") (
+		  
+"   ###     ##"
+"   rrr     bb"
+"    #      ##"
+"    r      bb"
+"    #      #"
+"    r      b") (
+		 
+"    ### e ##    l"
+"    rrr r bb    b"
+"    #     ##"
+"    r     bb"
+"    #     #"
+"    r     b") (
+		
+"   ###  x ##    a"
+"   rrr  r bb    b"
+"    #   e ##   l"
+"    r   r bb   b"
+"    #     #"
+"    r     b") (
+		
+"   ###  t ##    y"
+"   rrr  r bb    b"
+"    #   x ##   a"
+"    r   r bb   b"
+"    #  e  #   l"
+"    r  r  b   b") (
+		    
+"   ###    ##    e"
+"   rrr    bb    b"
+"    #   t ##   y"
+"    r   r bb   b"
+"    # e x #  la"
+"    r r r b  bb") (
+		    
+"   ###    ##    r"
+"   rrr    bb    b"
+"    #   t ##   e"
+"    r   r bb   b"
+"    # ex  # lay"
+"    r rr  b bbb") (
+		    
+"   ###    ##"
+"   rrr    bb"
+"    #   t ##    r"
+"    r   r bb    b"
+"    # ex  # laye"
+"    r rr  b bbbb") (
+		     
+"   ###    ##"
+"   rrr    bb"
+"    #     ##"
+"    r     bb"
+"    # ext # layer"
+"    r rrr b bbbbb") (
+
+"   ###    ##"
+"   rrr    bb"
+"    #     ##"
+"    r     bb"
+"    # ext # layer"
+"    r rrr b bbbbb"
+"    -------------"
+"    hhhhhhhhhhhhh") (
+		      
+"   ###    ##"
+"   rrr    bb"
+"    #     ##"
+"    r     bb"
+"    # ext # layer"
+"    r rrr b bbbbb"
+"    -------------"
+"    hhhhhhhhhhhhh"
+"    -------------"
+"    hhhhhhhhhhhhh") (
+		      
+"   ###    ##"
+"   rrr    bb"
+"    #     ##"
+"    r     bb"
+"    # ext # layer"
+"    r rrr b bbbbb"
+"    -------------"
+"    yyyyyyyyyyyyy"
+"    -------------"
+"    hhhhhhhhhhhhh"
+"    -------------"
+"    ppppppppppppp")
+)
